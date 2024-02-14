@@ -1,0 +1,251 @@
+@font-face {
+    font-family: Bebas Neue;
+    src: url("fonts/BebasNeue-Regular.ttf");
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url("fonts/Roboto-Regular.ttf");
+}
+.div1 {
+    display: flex;
+    text-decoration: none;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow:0 .5rem 1rem rgba(0,0,0,.15)!important;
+    padding: 10px 30px 10px 30px;
+}
+.link1 {
+    text-decoration: none;
+    color: rgb(29, 26, 26);
+    font-weight: 100;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Roboto';
+}
+.LOGO {
+    height: 30px;
+}
+.logo{
+    display: flex;
+}
+.span1 {
+    color: rgb(255, 131, 103);
+    font-size: 20px;
+    text-shadow: 1px 1px 1px rgb(255, 131, 103);
+    font-family: 'Roboto';
+    font-weight: 100;
+}
+
+.link {
+    color: rgb(124, 118, 118);
+    text-decoration: none;
+    padding-left: 60px;
+    font-weight: 600;
+    font-family:'Roboto';
+    font-size: 17px;
+}
+
+.first {
+    height: 450px;
+}
+
+.div2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 600px;
+}
+
+.head1 {
+    font-family:'Roboto';
+    flex-direction: column;
+}
+
+.heading {
+    font-family: Bebas Neue;
+    font-size: 75px;
+    color: rgb(255, 131, 103);
+    font-weight: 300;
+}
+
+.heading2 {
+    color: rgb(54, 57, 88);
+}
+
+.btn {
+    background-color: rgb(11, 94, 215);
+    color: white;
+    border: 1px solid white;
+    height: 48px;
+    width: 130px;
+    word-spacing: 2px;
+    border-radius: 8px;
+    font-size: 16.5px;
+}
+
+.div3 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(229, 229, 229);
+}
+
+.second {
+    height: 280px;
+    width: 340px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px;
+}
+
+.casual {
+    display: flex;
+}
+
+.div4 {
+    display: flex;
+    justify-content: center;
+}
+
+.cashead {
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 1000;
+    color: #363958;
+}
+
+.images {
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 18px;
+    justify-content: center;
+    padding: 12px;
+}
+
+.section {
+    background-color: rgb(229, 229, 229);
+    padding-bottom: 2px;
+    padding-top: 5px;
+}
+
+.btn2 {
+    background-color: rgb(11, 94, 215);
+    color: white;
+    border: 1px solid white;
+    height: 38px;
+    width: 100px;
+    word-spacing: 2px;
+    border-radius: 8px;
+    font-size: 12px;
+}
+
+.H2 {
+    font-family: 'Bebas Neue';
+    font-size: 42px;
+    color: #363958;
+    padding-left: 100px;
+    font-weight: 100;
+}
+.man {
+    height: 300px;
+}
+
+.h4 {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 700;
+    color: #363958;
+}
+
+.div5 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.last {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+    width: 460px;
+    margin: 12px;
+    border-radius: 10px;
+    height: 120px;
+    align-items: center;
+    font-size: 13px;
+    font-family: 'Roboto';
+}
+
+.last3 {
+    height: 70px;
+    padding-left: 40px;
+}
+
+.para {
+    padding-right: 30px;
+}
+
+.subscribe {
+    text-align: center;
+    background-color: white;
+    padding-top: 20px;
+    margin: 40px 90px 35px 90px;
+    font-family: 'Roboto';
+    border-radius: 15px;
+    padding-bottom: 40px;
+    height: 120px;
+    color: #363958;
+}
+
+.email {
+    width: 800px;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid rgb(206, 212, 218);
+}
+
+.btn3 {
+    height: 32px;
+    width: 100px;
+    color: white;
+    background-color: rgb(11, 94, 215);
+    border: 1px solid rgb(11, 94, 215);
+}
+
+.footer {
+    display: flex;
+    font-family: 'Roboto';
+    text-align: left;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+
+.ul {
+    list-style: none;
+    padding-bottom: 10px;
+    line-height: 20px;
+    font-size: 12px;
+}
+.fthead{
+    font-family: 'Roboto';
+    color: #363958;
+    padding-left: 38px;
+}
+.rights{
+    color: rgb(255, 131, 103) ;
+}
+.copy{
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Roboto';
+    padding-bottom: 10px;
+}
+.price{
+    color: rgb(255, 131, 103) ;
+    font-size: 25px;
+    font-weight: 540;
+    text-align: left;
+    padding-right: 170px;
+}
+ 
